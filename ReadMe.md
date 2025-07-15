@@ -129,10 +129,4 @@ Capital :: [[Nepal/Counties/Bagmati/City/Kathmandu]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Nepal|Nepal]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal.internal|Nepal.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal.protect|Nepal.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South/Nepal.private|Nepal.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal.personal|Nepal.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal.secret|Nepal.secret]] 
+

@@ -40,11 +40,18 @@ markerFolder: ./Sagarmatha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha|Sagarmatha]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.public|Sagarmatha.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.internal|Sagarmatha.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.protect|Sagarmatha.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.private|Sagarmatha.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.personal|Sagarmatha.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Sagarmatha.secret|Sagarmatha.secret]] 
+
+### #is_/same_as :: [Sagarmatha](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.md) 
+
+### #is_/same_as :: [Sagarmatha.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.public.md) 
+
+### #is_/same_as :: [Sagarmatha.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.internal.md) 
+
+### #is_/same_as :: [Sagarmatha.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.protect.md) 
+
+### #is_/same_as :: [Sagarmatha.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.private.md) 
+
+### #is_/same_as :: [Sagarmatha.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.personal.md) 
+
+### #is_/same_as :: [Sagarmatha.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.secret.md)
 

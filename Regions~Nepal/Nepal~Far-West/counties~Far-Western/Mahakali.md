@@ -40,11 +40,18 @@ markerFolder: ./Mahakali/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali|Mahakali]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.public|Mahakali.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.internal|Mahakali.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.protect|Mahakali.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.private|Mahakali.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.personal|Mahakali.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Mahakali.secret|Mahakali.secret]] 
+
+### #is_/same_as :: [Mahakali](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Mahakali.md) 
+
+### #is_/same_as :: [Mahakali.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Mahakali.public.md) 
+
+### #is_/same_as :: [Mahakali.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Mahakali.internal.md) 
+
+### #is_/same_as :: [Mahakali.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Mahakali.protect.md) 
+
+### #is_/same_as :: [Mahakali.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Mahakali.private.md) 
+
+### #is_/same_as :: [Mahakali.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Mahakali.personal.md) 
+
+### #is_/same_as :: [Mahakali.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Mahakali.secret.md)
 

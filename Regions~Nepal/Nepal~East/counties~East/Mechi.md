@@ -40,11 +40,18 @@ markerFolder: ./Mechi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi|Mechi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.public|Mechi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.internal|Mechi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.protect|Mechi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.private|Mechi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.personal|Mechi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Mechi.secret|Mechi.secret]] 
+
+### #is_/same_as :: [Mechi](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.md) 
+
+### #is_/same_as :: [Mechi.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.public.md) 
+
+### #is_/same_as :: [Mechi.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.internal.md) 
+
+### #is_/same_as :: [Mechi.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.protect.md) 
+
+### #is_/same_as :: [Mechi.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.private.md) 
+
+### #is_/same_as :: [Mechi.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.personal.md) 
+
+### #is_/same_as :: [Mechi.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.secret.md)
 

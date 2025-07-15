@@ -40,11 +40,18 @@ markerFolder: ./Dhawalagiri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri|Dhawalagiri]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.public|Dhawalagiri.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.internal|Dhawalagiri.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.protect|Dhawalagiri.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.private|Dhawalagiri.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.personal|Dhawalagiri.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Dhawalagiri.secret|Dhawalagiri.secret]] 
+
+### #is_/same_as :: [Dhawalagiri](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.md) 
+
+### #is_/same_as :: [Dhawalagiri.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.public.md) 
+
+### #is_/same_as :: [Dhawalagiri.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.internal.md) 
+
+### #is_/same_as :: [Dhawalagiri.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.protect.md) 
+
+### #is_/same_as :: [Dhawalagiri.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.private.md) 
+
+### #is_/same_as :: [Dhawalagiri.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.personal.md) 
+
+### #is_/same_as :: [Dhawalagiri.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Karnali/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali|Karnali]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.public|Karnali.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.internal|Karnali.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.protect|Karnali.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.private|Karnali.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.personal|Karnali.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Karnali.secret|Karnali.secret]] 
+
+### #is_/same_as :: [Karnali](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.md) 
+
+### #is_/same_as :: [Karnali.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.public.md) 
+
+### #is_/same_as :: [Karnali.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.internal.md) 
+
+### #is_/same_as :: [Karnali.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.protect.md) 
+
+### #is_/same_as :: [Karnali.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.private.md) 
+
+### #is_/same_as :: [Karnali.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.personal.md) 
+
+### #is_/same_as :: [Karnali.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Janakpur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Janakpur|Janakpur]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Janakpur.public|Janakpur.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Janakpur.internal|Janakpur.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Janakpur.protect|Janakpur.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Janakpur.private|Janakpur.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Janakpur.personal|Janakpur.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Janakpur.secret|Janakpur.secret]] 
+
+### #is_/same_as :: [Janakpur](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Janakpur.md) 
+
+### #is_/same_as :: [Janakpur.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Janakpur.public.md) 
+
+### #is_/same_as :: [Janakpur.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Janakpur.internal.md) 
+
+### #is_/same_as :: [Janakpur.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Janakpur.protect.md) 
+
+### #is_/same_as :: [Janakpur.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Janakpur.private.md) 
+
+### #is_/same_as :: [Janakpur.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Janakpur.personal.md) 
+
+### #is_/same_as :: [Janakpur.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Janakpur.secret.md)
 

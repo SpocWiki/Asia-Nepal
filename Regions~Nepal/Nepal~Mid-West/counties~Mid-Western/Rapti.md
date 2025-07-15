@@ -40,11 +40,18 @@ markerFolder: ./Rapti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti|Rapti]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.public|Rapti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.internal|Rapti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.protect|Rapti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.private|Rapti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.personal|Rapti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Rapti.secret|Rapti.secret]] 
+
+### #is_/same_as :: [Rapti](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.md) 
+
+### #is_/same_as :: [Rapti.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.public.md) 
+
+### #is_/same_as :: [Rapti.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.internal.md) 
+
+### #is_/same_as :: [Rapti.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.protect.md) 
+
+### #is_/same_as :: [Rapti.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.private.md) 
+
+### #is_/same_as :: [Rapti.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.personal.md) 
+
+### #is_/same_as :: [Rapti.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.secret.md)
 

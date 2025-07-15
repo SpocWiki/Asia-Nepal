@@ -40,11 +40,18 @@ markerFolder: ./Lumbini/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini|Lumbini]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.public|Lumbini.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.internal|Lumbini.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.protect|Lumbini.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.private|Lumbini.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.personal|Lumbini.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Lumbini.secret|Lumbini.secret]] 
+
+### #is_/same_as :: [Lumbini](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.md) 
+
+### #is_/same_as :: [Lumbini.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.public.md) 
+
+### #is_/same_as :: [Lumbini.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.internal.md) 
+
+### #is_/same_as :: [Lumbini.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.protect.md) 
+
+### #is_/same_as :: [Lumbini.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.private.md) 
+
+### #is_/same_as :: [Lumbini.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.personal.md) 
+
+### #is_/same_as :: [Lumbini.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.secret.md)
 

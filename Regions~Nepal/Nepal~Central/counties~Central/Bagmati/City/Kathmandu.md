@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/City/Kathmandu|Kathmandu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/City/Kathmandu.public|Kathmandu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/City/Kathmandu.internal|Kathmandu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/City/Kathmandu.protect|Kathmandu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/City/Kathmandu.private|Kathmandu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/City/Kathmandu.personal|Kathmandu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/City/Kathmandu.secret|Kathmandu.secret]] 
+
+### #is_/same_as :: [Kathmandu](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.md) 
+
+### #is_/same_as :: [Kathmandu.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.public.md) 
+
+### #is_/same_as :: [Kathmandu.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.internal.md) 
+
+### #is_/same_as :: [Kathmandu.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.protect.md) 
+
+### #is_/same_as :: [Kathmandu.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.private.md) 
+
+### #is_/same_as :: [Kathmandu.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.personal.md) 
+
+### #is_/same_as :: [Kathmandu.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.secret.md)
+

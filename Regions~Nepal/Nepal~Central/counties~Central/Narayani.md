@@ -40,11 +40,18 @@ markerFolder: ./Narayani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani|Narayani]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.public|Narayani.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.internal|Narayani.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.protect|Narayani.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.private|Narayani.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.personal|Narayani.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Narayani.secret|Narayani.secret]] 
+
+### #is_/same_as :: [Narayani](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.md) 
+
+### #is_/same_as :: [Narayani.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.public.md) 
+
+### #is_/same_as :: [Narayani.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.internal.md) 
+
+### #is_/same_as :: [Narayani.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.protect.md) 
+
+### #is_/same_as :: [Narayani.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.private.md) 
+
+### #is_/same_as :: [Narayani.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.personal.md) 
+
+### #is_/same_as :: [Narayani.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.secret.md)
 

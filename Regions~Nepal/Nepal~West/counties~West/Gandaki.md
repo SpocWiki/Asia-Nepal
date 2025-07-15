@@ -40,11 +40,18 @@ markerFolder: ./Gandaki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki|Gandaki]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.public|Gandaki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.internal|Gandaki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.protect|Gandaki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.private|Gandaki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.personal|Gandaki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Nepal/Counties/Gandaki.secret|Gandaki.secret]] 
+
+### #is_/same_as :: [Gandaki](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.md) 
+
+### #is_/same_as :: [Gandaki.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.public.md) 
+
+### #is_/same_as :: [Gandaki.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.internal.md) 
+
+### #is_/same_as :: [Gandaki.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.protect.md) 
+
+### #is_/same_as :: [Gandaki.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.private.md) 
+
+### #is_/same_as :: [Gandaki.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.personal.md) 
+
+### #is_/same_as :: [Gandaki.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.secret.md)
 
