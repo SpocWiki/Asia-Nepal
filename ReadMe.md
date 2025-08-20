@@ -1,36 +1,37 @@
 ---
 location:
-- 27.7
-- 85.3167
+  - 27.7
+  - 85.3167
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26985
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Nepal
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Nepal
-- Népal
-- نيبال
-- 尼泊尔
-- Непал
-- the Federal Democratic Republic of Nepal
-- la República Democrática Federal de Nepal
+  - Nepal
+  - Népal
+  - نيبال
+  - 尼泊尔
+  - Непал
+  - the Federal Democratic Republic of Nepal
+  - la República Democrática Federal de Nepal
 Languages:
-- ne
-- en
+  - ne
+  - en
 ---
 
 
