@@ -40,17 +40,17 @@ markerFolder: ./Seti/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seti](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.md) 
+### #is_/same_as :: [Seti](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.md) 
 
-### #is_/same_as :: [Seti.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.public.md) 
+### #is_/same_as :: [Seti.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.public.md) 
 
-### #is_/same_as :: [Seti.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.internal.md) 
+### #is_/same_as :: [Seti.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.internal.md) 
 
-### #is_/same_as :: [Seti.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.protect.md) 
+### #is_/same_as :: [Seti.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.protect.md) 
 
-### #is_/same_as :: [Seti.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.private.md) 
+### #is_/same_as :: [Seti.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.private.md) 
 
-### #is_/same_as :: [Seti.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.personal.md) 
+### #is_/same_as :: [Seti.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.personal.md) 
 
-### #is_/same_as :: [Seti.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.secret.md)
+### #is_/same_as :: [Seti.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Far-West/counties~Far-Western/Seti.secret.md)
 

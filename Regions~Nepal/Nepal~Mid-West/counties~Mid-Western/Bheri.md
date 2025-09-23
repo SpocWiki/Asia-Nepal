@@ -40,17 +40,17 @@ markerFolder: ./Bheri/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bheri](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.md) 
+### #is_/same_as :: [Bheri](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.md) 
 
-### #is_/same_as :: [Bheri.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.public.md) 
+### #is_/same_as :: [Bheri.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.public.md) 
 
-### #is_/same_as :: [Bheri.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.internal.md) 
+### #is_/same_as :: [Bheri.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.internal.md) 
 
-### #is_/same_as :: [Bheri.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.protect.md) 
+### #is_/same_as :: [Bheri.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.protect.md) 
 
-### #is_/same_as :: [Bheri.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.private.md) 
+### #is_/same_as :: [Bheri.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.private.md) 
 
-### #is_/same_as :: [Bheri.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.personal.md) 
+### #is_/same_as :: [Bheri.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.personal.md) 
 
-### #is_/same_as :: [Bheri.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.secret.md)
+### #is_/same_as :: [Bheri.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Bheri.secret.md)
 

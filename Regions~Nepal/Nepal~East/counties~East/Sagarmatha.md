@@ -40,17 +40,17 @@ markerFolder: ./Sagarmatha/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sagarmatha](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.md) 
+### #is_/same_as :: [Sagarmatha](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.md) 
 
-### #is_/same_as :: [Sagarmatha.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.public.md) 
+### #is_/same_as :: [Sagarmatha.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.public.md) 
 
-### #is_/same_as :: [Sagarmatha.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.internal.md) 
+### #is_/same_as :: [Sagarmatha.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.internal.md) 
 
-### #is_/same_as :: [Sagarmatha.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.protect.md) 
+### #is_/same_as :: [Sagarmatha.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.protect.md) 
 
-### #is_/same_as :: [Sagarmatha.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.private.md) 
+### #is_/same_as :: [Sagarmatha.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.private.md) 
 
-### #is_/same_as :: [Sagarmatha.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.personal.md) 
+### #is_/same_as :: [Sagarmatha.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.personal.md) 
 
-### #is_/same_as :: [Sagarmatha.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.secret.md)
+### #is_/same_as :: [Sagarmatha.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Sagarmatha.secret.md)
 

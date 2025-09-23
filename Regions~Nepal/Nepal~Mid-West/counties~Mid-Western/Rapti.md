@@ -40,17 +40,17 @@ markerFolder: ./Rapti/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rapti](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.md) 
+### #is_/same_as :: [Rapti](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.md) 
 
-### #is_/same_as :: [Rapti.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.public.md) 
+### #is_/same_as :: [Rapti.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.public.md) 
 
-### #is_/same_as :: [Rapti.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.internal.md) 
+### #is_/same_as :: [Rapti.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.internal.md) 
 
-### #is_/same_as :: [Rapti.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.protect.md) 
+### #is_/same_as :: [Rapti.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.protect.md) 
 
-### #is_/same_as :: [Rapti.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.private.md) 
+### #is_/same_as :: [Rapti.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.private.md) 
 
-### #is_/same_as :: [Rapti.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.personal.md) 
+### #is_/same_as :: [Rapti.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.personal.md) 
 
-### #is_/same_as :: [Rapti.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.secret.md)
+### #is_/same_as :: [Rapti.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Rapti.secret.md)
 

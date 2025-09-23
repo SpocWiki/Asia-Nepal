@@ -40,17 +40,17 @@ markerFolder: ./Narayani/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Narayani](/_Standards/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.md) 
+### #is_/same_as :: [Narayani](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.md) 
 
-### #is_/same_as :: [Narayani.public](/_public/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.public.md) 
+### #is_/same_as :: [Narayani.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.public.md) 
 
-### #is_/same_as :: [Narayani.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.internal.md) 
+### #is_/same_as :: [Narayani.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.internal.md) 
 
-### #is_/same_as :: [Narayani.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.protect.md) 
+### #is_/same_as :: [Narayani.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.protect.md) 
 
-### #is_/same_as :: [Narayani.private](/_private/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.private.md) 
+### #is_/same_as :: [Narayani.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.private.md) 
 
-### #is_/same_as :: [Narayani.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.personal.md) 
+### #is_/same_as :: [Narayani.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.personal.md) 
 
-### #is_/same_as :: [Narayani.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.secret.md)
+### #is_/same_as :: [Narayani.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Narayani.secret.md)
 
