@@ -40,17 +40,17 @@ markerFolder: ./Dhawalagiri/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dhawalagiri](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri|Dhawalagiri]] 
 
-### #is_/same_as :: [Dhawalagiri.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.public|Dhawalagiri.public]] 
 
-### #is_/same_as :: [Dhawalagiri.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.internal|Dhawalagiri.internal]] 
 
-### #is_/same_as :: [Dhawalagiri.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.protect|Dhawalagiri.protect]] 
 
-### #is_/same_as :: [Dhawalagiri.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.private|Dhawalagiri.private]] 
 
-### #is_/same_as :: [Dhawalagiri.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.personal|Dhawalagiri.personal]] 
 
-### #is_/same_as :: [Dhawalagiri.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Dhawalagiri.secret|Dhawalagiri.secret]] 
 

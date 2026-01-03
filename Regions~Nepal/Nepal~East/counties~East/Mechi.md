@@ -40,17 +40,17 @@ markerFolder: ./Mechi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mechi](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi|Mechi]] 
 
-### #is_/same_as :: [Mechi.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.public|Mechi.public]] 
 
-### #is_/same_as :: [Mechi.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.internal|Mechi.internal]] 
 
-### #is_/same_as :: [Mechi.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.protect|Mechi.protect]] 
 
-### #is_/same_as :: [Mechi.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.private|Mechi.private]] 
 
-### #is_/same_as :: [Mechi.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.personal|Mechi.personal]] 
 
-### #is_/same_as :: [Mechi.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~East/counties~East/Mechi.secret|Mechi.secret]] 
 

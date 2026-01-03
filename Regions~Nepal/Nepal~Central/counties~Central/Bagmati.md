@@ -40,17 +40,17 @@ markerFolder: ./Bagmati/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bagmati](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati|Bagmati]] 
 
-### #is_/same_as :: [Bagmati.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati.public|Bagmati.public]] 
 
-### #is_/same_as :: [Bagmati.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati.internal|Bagmati.internal]] 
 
-### #is_/same_as :: [Bagmati.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati.protect|Bagmati.protect]] 
 
-### #is_/same_as :: [Bagmati.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati.private|Bagmati.private]] 
 
-### #is_/same_as :: [Bagmati.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati.personal|Bagmati.personal]] 
 
-### #is_/same_as :: [Bagmati.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati.secret|Bagmati.secret]] 
 

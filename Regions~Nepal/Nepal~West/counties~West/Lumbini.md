@@ -40,17 +40,17 @@ markerFolder: ./Lumbini/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lumbini](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini|Lumbini]] 
 
-### #is_/same_as :: [Lumbini.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.public|Lumbini.public]] 
 
-### #is_/same_as :: [Lumbini.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.internal|Lumbini.internal]] 
 
-### #is_/same_as :: [Lumbini.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.protect|Lumbini.protect]] 
 
-### #is_/same_as :: [Lumbini.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.private|Lumbini.private]] 
 
-### #is_/same_as :: [Lumbini.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.personal|Lumbini.personal]] 
 
-### #is_/same_as :: [Lumbini.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Lumbini.secret|Lumbini.secret]] 
 

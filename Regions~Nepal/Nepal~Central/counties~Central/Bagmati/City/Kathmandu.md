@@ -147,19 +147,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kathmandu)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kathmandu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu|Kathmandu]] 
 
-### #is_/same_as :: [Kathmandu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.public|Kathmandu.public]] 
 
-### #is_/same_as :: [Kathmandu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.internal|Kathmandu.internal]] 
 
-### #is_/same_as :: [Kathmandu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.protect|Kathmandu.protect]] 
 
-### #is_/same_as :: [Kathmandu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.private|Kathmandu.private]] 
 
-### #is_/same_as :: [Kathmandu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.personal|Kathmandu.personal]] 
 
-### #is_/same_as :: [Kathmandu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Central/counties~Central/Bagmati/City/Kathmandu.secret|Kathmandu.secret]] 
 

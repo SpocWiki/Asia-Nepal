@@ -40,17 +40,17 @@ markerFolder: ./Bhojpur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bhojpur](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur|Bhojpur]] 
 
-### #is_/same_as :: [Bhojpur.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur.public|Bhojpur.public]] 
 
-### #is_/same_as :: [Bhojpur.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur.internal|Bhojpur.internal]] 
 
-### #is_/same_as :: [Bhojpur.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur.protect|Bhojpur.protect]] 
 
-### #is_/same_as :: [Bhojpur.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur.private|Bhojpur.private]] 
 
-### #is_/same_as :: [Bhojpur.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur.personal|Bhojpur.personal]] 
 
-### #is_/same_as :: [Bhojpur.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Counties/Bhojpur.secret|Bhojpur.secret]] 
 

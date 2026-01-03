@@ -40,17 +40,17 @@ markerFolder: ./Karnali/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Karnali](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali|Karnali]] 
 
-### #is_/same_as :: [Karnali.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.public|Karnali.public]] 
 
-### #is_/same_as :: [Karnali.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.internal|Karnali.internal]] 
 
-### #is_/same_as :: [Karnali.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.protect|Karnali.protect]] 
 
-### #is_/same_as :: [Karnali.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.private|Karnali.private]] 
 
-### #is_/same_as :: [Karnali.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.personal|Karnali.personal]] 
 
-### #is_/same_as :: [Karnali.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~Mid-West/counties~Mid-Western/Karnali.secret|Karnali.secret]] 
 

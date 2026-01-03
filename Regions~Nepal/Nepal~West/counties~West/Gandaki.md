@@ -40,17 +40,17 @@ markerFolder: ./Gandaki/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gandaki](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki|Gandaki]] 
 
-### #is_/same_as :: [Gandaki.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.public|Gandaki.public]] 
 
-### #is_/same_as :: [Gandaki.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.internal|Gandaki.internal]] 
 
-### #is_/same_as :: [Gandaki.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.protect|Gandaki.protect]] 
 
-### #is_/same_as :: [Gandaki.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.private|Gandaki.private]] 
 
-### #is_/same_as :: [Gandaki.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.personal|Gandaki.personal]] 
 
-### #is_/same_as :: [Gandaki.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal/Regions~Nepal/Nepal~West/counties~West/Gandaki.secret|Gandaki.secret]] 
 
